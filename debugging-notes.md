@@ -12,9 +12,9 @@
 
 After an image works in index.html, temporarily change its path, observe the result, and restore it.
 
-- The path I deliberately changed: I changed the images part of "images/workstation.jpg" to just "image" to break it.
+- The path I deliberately changed: I changed the images part of "images/workstation.jpg" to just "imag" to break it.
 - What happened in the browser: When I loaded the browser, I saw a broken photo with the alt text displayed in place of the photo.
-- How I restored the working image: I restored the working image by fixing the "image" part of "image/workstation.jpg", and I fixed that part by editing it tso it can be "images" instead of "image" (EX: image/workstation.jpg -> images/workstation.jpg).
+- How I restored the working image: I restored the working image by fixing the "imag" part of "image/workstation.jpg", and I fixed that part by editing it tso it can be "images" instead of "imag" (EX: imag/workstation.jpg -> images/workstation.jpg).
 
 ## Reflection
 
